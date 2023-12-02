@@ -1,0 +1,11 @@
+body{
+    background-image: url('../img/evangelion.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    filter: brightness(50%) contrast(100%);
+}
+
+.bordes{
+    border: 2px dashed white;
+    border-radius: 20px;
+}
